@@ -1,4 +1,6 @@
-*.drawio
+*ER.drawio
+*KB.drawio
+*FA.drawio
 *.docx
 *.xlsx
-./lab1/links
+*/links
